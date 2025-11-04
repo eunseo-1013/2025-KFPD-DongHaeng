@@ -1,4 +1,4 @@
-# 동행
+# 동행 
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bcf0689a-1f9d-40ad-afcc-7284d3015f4f" alt="동행 로고" width="200"/>
@@ -31,10 +31,10 @@
 
 <div align="center">
 
-|                          Backend                          |                        Frontend                        |                        Design                         |                       PM                        |
-| :----------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: |
-|          [이름](https://github.com/username)          |          [이름](https://github.com/username)          |          [이름](https://github.com/username)          |          [이름](https://github.com/username)          |
-| <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> |
+|                          Backend                          |                        Frontend                        |                        Frontend                         |                       Frontend                        |                       UI/UX Design                        |
+| :----------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+|          조영찬          |          장수민          |          장은서          |          손정연          |          김우인          |
+| <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> |
 
 </div>
 
@@ -1151,7 +1151,6 @@ gcloud compute ssh companion-api --zone=asia-northeast3-a
 
 # VM 내에서 Node.js 설치 및 앱 배포
 # (위의 환경 설정 단계 반복)
-```
 
 ---
 
@@ -1311,6 +1310,22 @@ SOFTWARE.
 ```
 
 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+
+---
+
+## 📞 Contact
+
+### 문의 및 지원
+
+- **이메일**: support@companion-app.com
+- **GitHub Issues**: [프로젝트 이슈](https://github.com/your-org/companion-backend/issues)
+- **Discord**: [커뮤니티 참여](https://discord.gg/companion)
+
+### 소셜 미디어
+
+- **Instagram**: [@companion.app](https://instagram.com/companion.app)
+- **Facebook**: [동행 페이지](https://facebook.com/companion.app)
+- **Blog**: [개발 블로그](https://blog.companion-app.com)
 
 ---
 
