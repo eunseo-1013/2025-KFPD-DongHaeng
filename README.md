@@ -1,4 +1,4 @@
-# 동행 (Companion)
+# 동행 
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bcf0689a-1f9d-40ad-afcc-7284d3015f4f" alt="동행 로고" width="200"/>
@@ -1150,90 +1150,6 @@ gcloud compute ssh companion-api --zone=asia-northeast3-a
 
 # VM 내에서 Node.js 설치 및 앱 배포
 # (위의 환경 설정 단계 반복)
-```
-
----
-
-## 📅 Development Roadmap
-
-### Phase 1: MVP 출시 (3개월) ✅
-
-- [x] 프로젝트 기획 및 요구사항 정의
-- [x] 기술 스택 선정
-- [x] 데이터베이스 스키마 설계
-- [x] API 명세 작성
-- [ ] **Backend 개발**
-  - [ ] 사용자 인증 API (회원가입, 로그인, JWT)
-  - [ ] 동행 요청/매칭 API
-  - [ ] 실시간 위치 공유 (Socket.io)
-  - [ ] QR 인증 시스템
-- [ ] **Frontend 개발**
-  - [ ] Android 앱 UI/UX 구현
-  - [ ] 지도 통합 (카카오맵)
-  - [ ] 실시간 알림 (FCM)
-- [ ] **테스트**
-  - [ ] 유닛 테스트 (Jest)
-  - [ ] 통합 테스트
-  - [ ] 사용성 테스트
-- [ ] **배포**
-  - [ ] GCP 인프라 구축
-  - [ ] CI/CD 파이프라인 (GitHub Actions)
-  - [ ] 안드로이드 베타 출시
-
-### Phase 2: 기능 확장 및 안정화 (3개월)
-
-- [ ] **신규 기능**
-  - [ ] iOS 앱 개발 및 출시
-  - [ ] 1:1 실시간 채팅 기능
-  - [ ] 상호 평가 및 리뷰 시스템
-  - [ ] 동행 지수 알고리즘 고도화
-  - [ ] 배지 및 게이미피케이션 시스템
-- [ ] **외부 연동**
-  - [ ] 1365 자원봉사포털 연동 (봉사 시간 인정)
-  - [ ] 지역 상점 파트너십 구축
-  - [ ] 포인트 및 쿠폰 시스템
-- [ ] **안정성 개선**
-  - [ ] 로드 밸런싱 및 오토 스케일링
-  - [ ] 모니터링 및 알림 시스템
-  - [ ] 에러 트래킹 (Sentry)
-  - [ ] 성능 최적화
-
-### Phase 3: 지역 확장 (6개월)
-
-- [ ] **지역 확대**
-  - [ ] 광주 → 서울/부산/대구 확장
-  - [ ] 지역별 커뮤니티 관리
-  - [ ] 지역 맞춤형 마케팅
-- [ ] **데이터 활용**
-  - [ ] 배리어프리 지도 데이터 수집
-  - [ ] 데이터 분석 대시보드
-  - [ ] 지자체 협력 체계 구축
-  - [ ] 정책 제안 리포트 생성
-- [ ] **협력 확대**
-  - [ ] 장애인단체 파트너십
-  - [ ] 자립생활센터 연계
-  - [ ] 대학교 봉사동아리 제휴
-
-### Phase 4: 고도화 및 글로벌 확장 (장기)
-
-- [ ] **AI/ML 도입**
-  - [ ] AI 기반 매칭 최적화
-  - [ ] 경로 추천 알고리즘
-  - [ ] 수요 예측 모델
-  - [ ] 이상 행동 탐지
-- [ ] **접근성 향상**
-  - [ ] 음성 명령 지원 (TTS/STT)
-  - [ ] 다국어 지원 (영어, 중국어, 일본어)
-  - [ ] 시각장애인을 위한 화면 리더 최적화
-- [ ] **플랫폼 확장**
-  - [ ] 웹 버전 출시
-  - [ ] 관리자 대시보드
-  - [ ] B2B 서비스 (기업/기관용)
-- [ ] **글로벌 진출**
-  - [ ] 해외 시장 조사
-  - [ ] 현지화 (Localization)
-  - [ ] 글로벌 파트너십
-
 ---
 
 ## 🤝 Contributing
@@ -1392,22 +1308,6 @@ SOFTWARE.
 ```
 
 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
-
----
-
-## 📞 Contact
-
-### 문의 및 지원
-
-- **이메일**: support@companion-app.com
-- **GitHub Issues**: [프로젝트 이슈](https://github.com/your-org/companion-backend/issues)
-- **Discord**: [커뮤니티 참여](https://discord.gg/companion)
-
-### 소셜 미디어
-
-- **Instagram**: [@companion.app](https://instagram.com/companion.app)
-- **Facebook**: [동행 페이지](https://facebook.com/companion.app)
-- **Blog**: [개발 블로그](https://blog.companion-app.com)
 
 ---
 
