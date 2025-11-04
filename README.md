@@ -453,23 +453,6 @@
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
 
-## Contact
-
-- **프로젝트 홈페이지**: https://companion-app.com
-- **이메일**: contact@companion-app.com
-- **이슈 트래커**: https://github.com/your-org/companion-app/issues
-
-## Acknowledgments
-
-이 프로젝트는 다음 분들의 도움으로 완성되었습니다:
-
-- 광주광역시 장애인복지관 자문
-- 휠체어 사용자 자문단
-- 카카오 테크 캠퍼스 지원
-- 오픈소스 커뮤니티
-
----
-
 <div align="center">
 
 **"기술이 만드는 따뜻한 연결, 동행"**
