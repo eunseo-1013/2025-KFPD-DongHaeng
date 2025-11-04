@@ -1,4 +1,4 @@
-# 동행 (Companion)
+# 동행
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bcf0689a-1f9d-40ad-afcc-7284d3015f4f" alt="동행 로고" width="200"/>
