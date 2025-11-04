@@ -34,9 +34,7 @@
 |                          Backend                          |                        Frontend                        |                        Frontend                         |                       Frontend                        |                       UI/UX Design                        |
 | :----------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
 |          조영찬          |          장수민          |          장은서          |          손정연          |          김우인          |
-| <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> | <img src="https://github.com/username.png" width="100"> |
 
-</div>
 
 ---
 
