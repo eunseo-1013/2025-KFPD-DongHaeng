@@ -1330,4 +1330,8 @@ SOFTWARE.
 
 **이 프로젝트가 마음에 드셨다면 ⭐️ Star를 눌러주세요!**
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> upstream/main
